@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1621960902406,1102,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1951,127,1,1,null,0,232,1035
+1621960902638,1102,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1951,127,1,1,https://reqres.in/api/users?page=2,1096,0,1035
+1621960903742,47,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1943,127,1,1,null,0,2,0
+1621960903743,47,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,46,0,0
+1621960903793,47,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1945,127,1,1,null,0,1,0
+1621960903793,47,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,46,0,0
+1621960903841,44,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1939,127,1,1,null,0,2,0
+1621960903842,44,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1939,127,1,1,https://reqres.in/api/users?page=2,44,0,0
+1621960903888,45,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1939,127,1,1,null,0,0,0
+1621960903888,45,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1939,127,1,1,https://reqres.in/api/users?page=2,43,0,0
+1621960903934,52,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1943,127,1,1,null,0,0,0
+1621960903934,52,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,51,0,0
+1621960903987,48,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1945,127,1,1,null,0,1,0
+1621960903988,48,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,47,0,0
+1621960904038,75,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1939,127,1,1,null,0,0,0
+1621960904038,75,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1939,127,1,1,https://reqres.in/api/users?page=2,74,0,0
+1621960904115,64,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1943,127,1,1,null,0,1,0
+1621960904115,64,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,64,0,0
+1621960904180,40,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1943,127,1,1,null,0,2,0
+1621960904181,40,/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,39,0,0
+1621960904399,155,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1939,127,1,1,null,0,5,110
+1621960904403,155,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1939,127,1,1,https://reqres.in/api/users?page=2,154,0,110
+1621960904559,43,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1939,127,1,1,null,0,1,0
+1621960904560,43,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1939,127,1,1,https://reqres.in/api/users?page=2,43,0,0
+1621960904604,46,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1945,127,1,1,null,0,0,0
+1621960904604,46,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,46,0,0
+1621960904650,40,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1943,127,1,1,null,0,1,0
+1621960904650,40,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,40,0,0
+1621960904691,49,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1941,127,1,1,null,0,0,0
+1621960904691,49,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1941,127,1,1,https://reqres.in/api/users?page=2,48,0,0
+1621960904740,50,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1939,127,1,1,null,0,0,0
+1621960904740,50,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1939,127,1,1,https://reqres.in/api/users?page=2,49,0,0
+1621960904790,41,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1941,127,1,1,null,0,0,0
+1621960904790,41,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1941,127,1,1,https://reqres.in/api/users?page=2,41,0,0
+1621960904831,52,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1943,127,1,1,null,0,0,0
+1621960904831,52,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,51,0,0
+1621960904883,41,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1951,127,1,1,null,0,0,0
+1621960904883,41,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1951,127,1,1,https://reqres.in/api/users?page=2,41,0,0
+1621960904924,40,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1943,127,1,1,null,0,0,0
+1621960904924,40,/api/users?page=2,200,OK,Thread Group 1-2,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,40,0,0
+1621960906396,138,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1943,127,1,1,null,0,2,98
+1621960906398,138,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,138,0,98
+1621960906536,42,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1947,127,1,1,null,0,1,0
+1621960906537,42,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1947,127,1,1,https://reqres.in/api/users?page=2,42,0,0
+1621960906579,43,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1945,127,1,1,null,0,1,0
+1621960906580,43,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,43,0,0
+1621960906623,40,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1941,127,1,1,null,0,0,0
+1621960906623,40,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1941,127,1,1,https://reqres.in/api/users?page=2,40,0,0
+1621960906663,38,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1949,127,1,1,null,0,1,0
+1621960906664,38,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1949,127,1,1,https://reqres.in/api/users?page=2,37,0,0
+1621960906702,44,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1939,127,1,1,null,0,0,0
+1621960906702,44,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1939,127,1,1,https://reqres.in/api/users?page=2,44,0,0
+1621960906746,40,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1939,127,1,1,null,0,0,0
+1621960906746,40,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1939,127,1,1,https://reqres.in/api/users?page=2,40,0,0
+1621960906786,40,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1947,127,1,1,null,0,0,0
+1621960906786,40,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1947,127,1,1,https://reqres.in/api/users?page=2,40,0,0
+1621960906826,44,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1943,127,1,1,null,0,0,0
+1621960906826,44,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,44,0,0
+1621960906871,38,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1937,127,1,1,null,0,0,0
+1621960906871,38,/api/users?page=2,200,OK,Thread Group 1-3,text,true,,1937,127,1,1,https://reqres.in/api/users?page=2,38,0,0
+1621960908395,153,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1943,127,1,1,null,0,2,105
+1621960908397,153,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,152,0,105
+1621960908550,44,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1941,127,1,1,null,0,1,0
+1621960908551,44,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1941,127,1,1,https://reqres.in/api/users?page=2,43,0,0
+1621960908595,42,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1953,127,1,1,null,0,2,0
+1621960908596,42,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1953,127,1,1,https://reqres.in/api/users?page=2,42,0,0
+1621960908639,48,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1945,127,1,1,null,0,0,0
+1621960908639,48,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,48,0,0
+1621960908688,41,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1947,127,1,1,null,0,0,0
+1621960908688,41,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1947,127,1,1,https://reqres.in/api/users?page=2,40,0,0
+1621960908729,58,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1943,127,1,1,null,0,0,0
+1621960908729,58,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,58,0,0
+1621960908787,41,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1945,127,1,1,null,0,1,0
+1621960908788,41,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,41,0,0
+1621960908829,53,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1947,127,1,1,null,0,0,0
+1621960908829,53,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1947,127,1,1,https://reqres.in/api/users?page=2,53,0,0
+1621960908882,40,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1945,127,1,1,null,0,0,0
+1621960908882,40,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,40,0,0
+1621960908923,43,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1941,127,1,1,null,0,0,0
+1621960908923,43,/api/users?page=2,200,OK,Thread Group 1-4,text,true,,1941,127,1,1,https://reqres.in/api/users?page=2,42,0,0
+1621960910394,138,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1943,127,1,1,null,0,1,94
+1621960910395,138,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1943,127,1,1,https://reqres.in/api/users?page=2,137,0,94
+1621960910533,49,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1945,127,1,1,null,0,1,0
+1621960910533,49,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,49,0,0
+1621960910583,44,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1949,127,1,1,null,0,0,0
+1621960910583,44,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1949,127,1,1,https://reqres.in/api/users?page=2,44,0,0
+1621960910627,39,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1939,127,1,1,null,0,0,0
+1621960910627,39,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1939,127,1,1,https://reqres.in/api/users?page=2,39,0,0
+1621960910666,46,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1949,127,1,1,null,0,0,0
+1621960910666,46,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1949,127,1,1,https://reqres.in/api/users?page=2,46,0,0
+1621960910712,38,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1945,127,1,1,null,0,0,0
+1621960910712,38,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,38,0,0
+1621960910750,43,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1953,127,1,1,null,0,0,0
+1621960910750,43,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1953,127,1,1,https://reqres.in/api/users?page=2,43,0,0
+1621960910793,43,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1937,127,1,1,null,0,0,0
+1621960910793,43,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1937,127,1,1,https://reqres.in/api/users?page=2,42,0,0
+1621960910836,55,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1945,127,1,1,null,0,1,0
+1621960910836,55,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,55,0,0
+1621960910892,39,Reqres,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1945,127,1,1,null,0,0,0
+1621960910892,39,/api/users?page=2,200,OK,Thread Group 1-5,text,true,,1945,127,1,1,https://reqres.in/api/users?page=2,39,0,0
